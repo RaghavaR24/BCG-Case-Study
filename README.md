@@ -66,14 +66,14 @@ With the given metadata,
   - Datasets Needed: **unit** and **primary_person**
     
 - Analysis 8: Among the crashed cars, what are the Top 5 Zip Codes with the highest number of crashes with alcohols as the contributing factor (Use Driver Zip Code)?
-  -Datasets Needed: **unit** and **charges**
+  - Datasets Needed: **unit** and **charges**
   
 - Analysis 9: Count of Distinct Crash IDs where No Damaged Property was observed, and Damage Level (VEH_DMAG_SCL~) is above 4, and the car avails Insurance.
-  -Datasets Needed: **damages** and **unit**
+  - Datasets Needed: **damages** and **unit**
   
 - Analysis 10: Determine the Top 5 Vehicle Makes where drivers are charged with speeding-related offenses, have licensed Drivers,
                used top 10 vehicle colors, and have cars licensed with the Top 25 states with the highest number of offenses (to be     deduced from the data).
-  -Datasets Needed: **unit** and **charges**
+  - Datasets Needed: **unit** and **charges**
 
 ## MetaData
 

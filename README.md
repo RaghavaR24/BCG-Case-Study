@@ -85,18 +85,18 @@ With the given metadata,
     - Introduce logging statements using the logging module for better tracking of the execution flow and debugging.
     - Replace print statements with logging to have more control over log levels and destinations.
 
-**Modularization**:
+- **Modularization**:
     - Consider breaking down the methods further if they become too long or complex. Each method should ideally perform one logical unit of work.
     - Modularization makes the code more readable and maintainable.
 
-**Parameterization**:
+- **Parameterization**:
     - This makes it easier to adapt the pipeline to different datasets or environments.
 
-**Performance Optimization**:
+- **Performance Optimization**:
     - Analyze the data and transformations to identify potential performance bottlenecks, and consider optimizations if necessary.
     - Caching or persisting intermediate DataFrames could improve performance for iterative analyses.
     
-**Testing**:
+- **Testing**:
     - Consider writing unit tests for critical parts of the pipeline using PySpark's **pyspark.sql.test** module.
     - Automated tests help ensure that changes do not introduce regressions.
 

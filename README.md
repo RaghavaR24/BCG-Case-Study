@@ -18,6 +18,8 @@ With the given metadata,
 - Analysis 2: How many two wheelers are booked for crashes? : **167456**
 - Analysis 3: Determine the Top 5 Vehicle Makes of the cars present in the crashes in which driver died and Airbags did not deployed
   
+  ![Screenshot](img/screenshot.png)
+  
 - Analysis 4: Determine number of Vehicles with driver having valid licences involved in hit and run? : **1**
 - Analysis 5: Which state has highest number of accidents in which females are not involved?
 - Analysis 6: Which are the Top 3rd to 5th VEH_MAKE_IDs that contribute to a largest number of injuries including death
